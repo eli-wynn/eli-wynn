@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hey, I'm Eli 👋
 
-### Full stack dev based in Toronto 🍁
+### Full Stack Developer Based in Toronto 🍁
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-eliwynn.ca-black?style=for-the-badge)](https://eliwynn.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eli--wynn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliwynn/)
@@ -47,9 +47,9 @@ me.say_hi()
 
 ---
 
-## 🛠️ tech i love
+## 🛠️ Tech I Love
 
-**languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -60,7 +60,7 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**⚙️ frameworks & tools**
+**⚙️ Frameworks & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -77,6 +77,7 @@ me.say_hi()
 |--------|-------------|
 | 🌐 **[eliwynn.ca](https://eliwynn.ca)** | My personal portfolio|
 | 🤖 **Slack Bot** | A Python-powered Slack bot made for mavericksVFX|
+| 🛡️ **Vulnerability Scanner** | Scans A Network and Compares it to a Database of known vulnerabilities |
 
 ---
 
