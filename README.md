@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **eli-wynn/eli-wynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# hey, i'm eli 👋
+# Hey, I'm Eli 👋
 
-### full stack dev based in toronto 🍁
+### Full stack dev based in Toronto 🍁
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-eliwynn.ca-black?style=for-the-badge)](https://eliwynn.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eli--wynn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliwynn/)
@@ -56,13 +56,18 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Ada](https://img.shields.io/badge/Ada-02f88c?style=flat-square&logo=ada&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**cloud & devops**
+**⚙️ frameworks & tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -70,8 +75,8 @@ me.say_hi()
 
 | project | description |
 |--------|-------------|
-| 🌐 **[eliwynn.ca](https://eliwynn.ca)** | My personal portfolio — come say hi! |
-| 🤖 **Slack Bot** | A Python-powered Slack bot that makes your workspace a little smarter (and a little more chaotic) |
+| 🌐 **[eliwynn.ca](https://eliwynn.ca)** | My personal portfolio|
+| 🤖 **Slack Bot** | A Python-powered Slack bot made for mavericksVFX|
 
 ---
 
