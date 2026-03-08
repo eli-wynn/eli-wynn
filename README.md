@@ -71,7 +71,7 @@ me.say_hi()
 
 ---
 
-## 🚀 things i've built
+## 🚀 Things I've Built
 
 | project | description |
 |--------|-------------|
@@ -81,7 +81,7 @@ me.say_hi()
 
 ---
 
-## 📊 github stats
+## 📊 Github Stats
 
 <div align="center">
 
