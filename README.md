@@ -33,7 +33,7 @@ class Eli:
     def __init__(self):
         self.name        = "Eli Wynn"
         self.location    = "Toronto, ON 🇨🇦"
-        self.roles       = ["Full Stack Developer", "DevOps Enthusiast", "Cloud Wrangler"]
+        self.roles       = ["Full Stack Developer", "DevOps Enthusiast"]
         self.languages   = ["Python", "Java", "JavaScript", "HTML", "CSS"]
         self.currently   = "Building cool things and automating the boring stuff"
         self.fun_fact    = "I once wrote a Slack bot — my teammates may never forgive me 🤖"
@@ -78,6 +78,8 @@ me.say_hi()
 | 🌐 **[eliwynn.ca](https://eliwynn.ca)** | My personal portfolio|
 | 🤖 **Slack Bot** | A Python-powered Slack bot made for mavericksVFX|
 | 🛡️ **Vulnerability Scanner** | Scans A Network and Compares it to a Database of known vulnerabilities |
+| 🦎 **Pokedex Web App** | A Pokedex web app containing the first eight generations |
+| 📓 **Momentum** | A downloadable productivity app with flashcards, notes, tasks and a pomodoro timer |
 
 ---
 
