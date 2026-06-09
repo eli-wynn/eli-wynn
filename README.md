@@ -36,7 +36,6 @@ class Eli:
         self.roles       = ["Full Stack Developer", "DevOps Enthusiast"]
         self.languages   = ["Python", "Java", "JavaScript", "HTML", "CSS"]
         self.currently   = "Building cool things and automating the boring stuff"
-        self.fun_fact    = "I once wrote a Slack bot — my teammates may never forgive me 🤖"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something awesome.")
