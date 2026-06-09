@@ -86,9 +86,9 @@ me.say_hi()
 
 <div align="center">
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eli-wynn&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=eli-wynn&theme=tokyonight&hide_border=true)](https://github.com/eli-wynn)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-wynn&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eli-wynn&theme=tokyonight)](https://github.com/eli-wynn)
 
 </div>
 
